@@ -6,20 +6,20 @@
               <input class="form-control" type="text" v-model="name">
           </div>
           <div class="form-group">
-              <label>Description</label>
-              <input class="form-control" type="text" v-model="Description">
+              <label>Surname</label>
+              <input class="form-control" type="text" v-model="surname">
           </div>
           <div class="form-group">
-              <label>startDate</label>
-              <input class="form-control" type="date" v-model="startDate">
+              <label>Username</label>
+              <input class="form-control" type="text" v-model="username">
           </div>
           <div class="form-group">
-              <label>endDate</label>
-              <input class="form-control" type="number" v-model="endDate">
+              <label>birthday</label>
+              <input class="form-control" type="number" v-model="birthday">
           </div>
           <div class="form-group">
-              <label>money</label>
-              <input class="form-control" type="text" v-model="money">
+              <label>address</label>
+              <input class="form-control" type="text" v-model="address">
           </div>
           <div class="form-group">
               <label>Number</label>
